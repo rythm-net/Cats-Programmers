@@ -1,4 +1,4 @@
-## Cats Programmers (simplified - Red VS Blue)
+## Cats Programmers (simplified - "Red VS Blue")
 
 ### Overall Information
 * **Course Project | Курсов Проект**
